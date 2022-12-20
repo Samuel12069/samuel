@@ -1,0 +1,198 @@
+*{
+  margin : 0%;
+  padding: 0%;
+}
+
+.header{
+  min-height: 100vh;
+  width: 100%;
+  background-image: url(img/pexels-jessica-ticozzelli-4333584.jpg);
+}
+
+h2{
+  color: black;
+  text-align: center;
+  font-size: 3.5rem;
+  margin-top: 7.5rem;
+}
+
+
+nav{
+  display: flex;
+  justify-content: space-between; 
+  padding: 16px;
+  align-items: center;
+}
+
+nav img{
+  width: 150px;
+  border-radius: 55px;
+  margin: 10px;
+}
+
+.nav-links{
+  flex: 1;
+  text-align: right;
+  
+}
+
+.nav-links ul li{
+  display: inline-block;
+  padding: 5px.10px;
+
+  position: relative;
+}
+
+.logo{
+  color: black;
+  font-size: 1rem;
+  font-family: Arial;
+  padding-left: 20px;
+  float: left;
+  padding-top: 10px;
+}
+
+.menu{
+ width: 400px; 
+ float: left;
+ height: 70px;
+}
+
+.nav-links ul li{
+  list-style: none;
+  display: inline-block;
+  padding: 8px 12px;
+  position:relative
+}  
+
+.nav-links ul li{
+ color: black;
+ text-decoration: none;
+ font-family: Arial;
+ font-weight: bold;
+ transition: ease-in-out;
+}   
+
+ul li a:hover{
+  color: black;
+
+
+}
+
+.wrapper{
+ align-content: center;
+}
+
+
+.nav-links ul li a{
+     cursor: pointer;
+     color: black;
+}
+
+
+.h1{
+  text-align: center;
+  color: white;
+  margin-top: 1rem;
+  font-size: larger;
+}
+
+p{
+  font-size: 5.5rem;
+  color: blue;
+  text-align: center;
+  margin-top: 1rem;
+}  
+
+
+
+.logo a{
+  text-decoration: none;
+  color: white;
+  font-size: 1rem;
+}
+
+.nav-links a{
+   text-decoration: none;
+   margin-left: 10px;
+   color: white;
+   
+}
+
+.nav-links a:hover{
+  cursor: pointer;
+  color: black;
+}
+
+p{
+  color: white;
+  font-size: 1.5rem;
+  color:white;
+  text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

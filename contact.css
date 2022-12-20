@@ -1,0 +1,97 @@
+*{
+  margin : auto;
+  padding: 0%;
+}
+
+.header{
+  min-height: 100vh;
+  width: 100%;
+  background-image: url(img/pexels-jessica-ticozzelli-4333584.jpg)
+}
+
+nav{
+display: flex;
+justify-content: space-between; 
+padding: 7px;
+align-items: center;
+}
+
+nav img{
+width: 100px;
+border-radius: 55px;
+}
+
+.nav-links{
+text-align: left;
+}
+
+
+
+.logo a{
+text-decoration: none;
+color: black;
+font-size: 33px;
+margin: right;
+}
+
+.nav-links a{
+  text-decoration: none;
+  margin-left: 10px;
+  color: white;
+
+}
+
+.nav-links a:hover{
+cursor: pointer;
+color: blue;
+}
+
+p{
+  color: black;
+  text-align: center;
+  font-size: 2.5rem;
+  margin-top: 7.5rem;
+}
+
+span{
+  color: white;
+  margin-top: 7.5rem;
+  font-size: 2.5rem
+} 
+
+@media (max-width:425px) {
+  
+}
+header{
+  min-height: 70vh;
+  width: 60%;
+}
+
+span{
+  color: white;
+  margin-top: 4.5rem;
+  font-size: 1.5rem
+} 
+
+p{
+  color: black;
+  text-align: center;
+  font-size: 1.5rem;
+  margin-top: 2.5rem;
+}
+
+
+.logo a{
+  text-decoration: none;
+  color: black;
+  font-size: 33px;
+  margin: right;
+  }
+
+
+
+
+
+
+
+
