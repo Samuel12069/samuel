@@ -26,7 +26,6 @@ nav{
 
 nav img{
   width: 150px;
-  border-radius: 55px;
   margin: 10px;
 }
 
@@ -133,9 +132,8 @@ p{
 
 @media (max-width:375px) {
 }
-nav img{
+ img{
  width: 100px;
- border-radius:55px;
  margin-left:10px;
  
 }
