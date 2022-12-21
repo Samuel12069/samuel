@@ -24,7 +24,7 @@ h2{
     align-items: center;
   }
   
-  nav img{
+   img{
     width: 150px;
     border-radius: 55px;
     margin: 10px;
@@ -170,8 +170,8 @@ h2{
     }
   }
     img{
-      padding-right: center;
-      
+      width:200px;
+      magrin-left:40px;
     }
   
 
